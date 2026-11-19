@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The AI agents and computer-use automation market is estimated at approximately $7–$8 billion in 2025 and projected to expand rapidly past $50 billion by 2030 (at a ~45% CAGR). The sector currently exhibits moderate-to-high fragmentation at the application, vertical agent, and virtual desktop infrastructure layers, alongside a concentrated, winner-take-most dynamic among foundational frontier model providers (e.g., OpenAI, Anthropic) who control underlying multimodal reasoning and native vision-action architectures.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Anthropic Computer Use (Claude API)](https://anthropic.com)**  
-
-  Cloud multimodal vision-and-action capability allowing Claude models to inspect desktop screenshots, calculate pixel coordinates, and execute mouse clicks, keystrokes, and bash commands.
-
-
-
-- **[OpenAI Operator & Computer-Using Agent (CUA)](https://openai.com)**  
-
-  Cloud AI agent system combining GPT-4o/o-series vision reasoning with reinforcement-learned GUI interaction to autonomously navigate browsers and web applications.
-
-
-
-- **[Simular](https://simular.ai)**  
-
-  Cloud and desktop AI computer-use agent platform built on Agent S architecture capable of executing complex, multi-application workflows across macOS and Windows.
-
-
-
-- **[MultiOn](https://multion.ai)**  
-
-  Cloud personal and enterprise web-agent platform enabling AI agents to autonomously operate web browsers, fill forms, and complete multi-step online tasks via API.
-
-
-
-- **[Browserbase](https://browserbase.com)**  
-
-  Serverless headless browser infrastructure built for AI agents and Playwright/Stagehand automation featuring session replays, stealth mode, and persistent contexts.
-
-
-
-- **[Lindy](https://lindy.ai)**  
-
-  No-code cloud AI assistant and workflow automation platform enabling teams to deploy computer-using and API-connected agents across email, CRM, and browser tasks.
-
-
-
-- **[HyperWrite (Personal Assistant)](https://hyperwriteai.com)**  
-
-  Cloud AI browser companion and autonomous web-navigation agent capable of executing multi-step research, form filling, and web workflows on behalf of users.
-
-
-
-- **[Induced AI](https://induced.ai)**  
-
-  Cloud browser-automation and RPA platform translating natural-language workflows into parallelized headless browser executions without brittle selectors.
-
-
-
-- **[Adept](https://adept.ai)**  
-
-  Enterprise AI action-model pioneer focused on multimodal software-control agents that operate complex enterprise web and desktop interfaces.
-
-
-
-- **[Scrapybara / Orgo Cloud](https://orgo.ai)**  
-
-  Cloud virtual desktop infrastructure providing instant, API-controllable Linux/Windows VM sandboxes tailored specifically for Computer-Use AI agents.
+| Platform | Company Valuation / Revenue | Starting Pricing Tier | Free Tier Limits / Trial | Core Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Anthropic Computer Use (Claude API)](https://anthropic.com)** | ~$1.51T valuation (post-IPO) / ~$33B+ revenue | $3.00 / MTok input, $15.00 / MTok output (Claude 3.5 Sonnet / 3.7 Sonnet) | $5 one-time initial credit on account signup (expires after 14 days) | Multimodal API model executing native OS keyboard/mouse coordinates and bash commands |
+| **[OpenAI Operator & Computer-Using Agent (CUA)](https://openai.com)** | ~$1.25T valuation / ~$13.1B+ revenue | $200.00/month (ChatGPT Pro subscription for Operator access) | Free plan includes standard ChatGPT web/text access; Operator GUI agent has 0 free runs (requires Pro subscription) | Reinforcement-learned autonomous GUI and browser navigation agent system |
+| **[Adept](https://adept.ai)** | ~$1.00B peak valuation ($415M funding; core team acqui-hired / tech licensed by Amazon for $25M) | $20.00/user/month (standard enterprise pilot baseline) | 14-day free trial limited to 50 automated browser runs | Enterprise multimodal action models (ACT-1) automating business web applications |
+| **[Browserbase](https://browserbase.com)** | $300M valuation ($67.5M total funding raised) | $20.00/month (Developer Plan; includes 100 browser hours, overage at $0.12/hr) | 1 browser-hour/month, max 3 concurrent sessions, 15 min session limit, 3 agent runs, 1,000 search/fetch calls | Serverless headless browser infrastructure and session replay built for AI agents |
+| **[MultiOn](https://multion.ai)** | $100M valuation ($20M total funding raised) | $20.00/month (Pro Tier) | 20 agent actions/day free on web extension / dashboard | Autonomous web agent platform executing multi-step form-filling and web transactions |
+| **[Lindy](https://lindy.ai)** | ~$50M total funding raised (valuation private) | $29.99/user/month (Plus Plan; 3,000 monthly credits) | 7-day free trial with $50 free credits (no credit card required upfront) | No-code autonomous AI coworker platform managing browser and API workflows |
+| **[Simular](https://simular.ai)** | ~$26.5M total funding raised (valuation private) | $50.00/month (Starter Tier with cloud virtual computer access) | 10 agent credits/day (refreshes daily; max 5 min session limit on shared Linux/web sandbox) | Cloud and desktop computer-use agent (Sai) running Agent S cross-platform architecture |
+| **[Induced AI](https://induced.ai)** | ~$2.3M seed funding raised (valuation private) | $49.00/month (Starter tier; 200 browser execution minutes) | 7-day free trial limited to 30 browser execution minutes and 1 concurrent worker | Autonomous cloud-browser RPA automating data extraction and multi-step web workflows |
+| **[HyperWrite (Personal Assistant)](https://hyperwriteai.com)** | ~$2.8M seed funding raised (valuation private) | $19.99/month (Premium Plan; 250 AI assistant messages/month) | Free plan limited to 15 generations/month and 5 autonomous assistant actions/month | Consumer and professional AI browser companion executing web research and form actions |
+| **[Scrapybara / Orgo Cloud](https://orgo.ai)** | ~$500K+ YC funding (valuation private) | $29.00/month (Starter tier; includes 50 VM hours, overage at $0.10/hr) | $5 one-time starting credit (equivalent to ~10 hours on a Medium Linux sandbox) | Cloud virtual desktop VM sandboxes (Linux/Windows) tailored for Computer-Use AI agents |
 
 
 
