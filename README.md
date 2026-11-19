@@ -71,7 +71,7 @@ A quantitative comparison of commercial platforms offering autonomous computer u
 
 The open-source ecosystem provides battle-tested building blocks across screen grounding, local desktop control, containerized virtual desktops, and web navigation. 
 
-All repositories are sorted by **GitHub Star Count (descending)**. Every repository badge links directly to its live stargazers page.
+All repositories are sorted by **GitHub Stars_Count (descending)**. Every repository badge links directly to its live stargazers page.
 
 - **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
   Autonomous general-purpose AI agent architecture with continuous execution, web browsing, file management, and plugin-driven desktop/system automation.
